@@ -34,6 +34,7 @@ The first goal will be achieved using unsupervised learning techniques to perfor
  8) Kaggle submission
           
 
-# Related blog:
-Here is the link to the blog related to the project: https://hianjana.medium.com/bertelsmann-arvato-financial-services-customer-data-analysis-segmentation-and-prediction-a92d04b9dae2
+## Related blogs and creator info:
+Anjana Ambika
+Technical blog: https://hianjana.medium.com/bertelsmann-arvato-financial-services-customer-data-analysis-segmentation-and-prediction-a92d04b9dae2
 
